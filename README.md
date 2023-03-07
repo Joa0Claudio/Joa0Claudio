@@ -9,5 +9,5 @@
     - ⚡ Fun fact: science fiction books
  </div>
 <div>
-  <a href=""><img src="https://i.postimg.cc/XvYCPnN1/Tutorial.gif" border="0" alt="https://i.postimg.cc/XvYCPnN1/Tutorial.gif"/></a>
+  <a href=""><img src="https://i.ibb.co/PGLBYDQ/thoughtworks-gif-dribbble.gif" border="0" alt="https://i.ibb.co/PGLBYDQ/thoughtworks-gif-dribbble.gif"/></a>
 </div>
