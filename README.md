@@ -4,7 +4,7 @@
 
     Here are some ideas to get you started:
 
-    - 🌱 I’m currently learning: js, python.
+    - 🌱 I’m currently learning: js.
     - 😄 Pronouns:he/his
     - ⚡ Fun fact: science fiction books
  </div>
